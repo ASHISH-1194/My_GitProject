@@ -3,3 +3,5 @@ lion
 dog
 horse
 cat
+monkey
+buffalo
